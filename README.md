@@ -152,3 +152,5 @@ bankapp/
 **CORS error in browser?**
 - Make sure backend is running before frontend
 - Check `app.cors.allowed-origins` in application.properties
+
+
